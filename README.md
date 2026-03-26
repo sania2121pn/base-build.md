@@ -4,3 +4,4 @@ Exploring Base ecosystem.
 Update: ongoing documentation of Base activity
 Update: focusing on consistent onchain experimentation
 Update: continuing to build consistency on Base
+Update: documenting daily builder activity
